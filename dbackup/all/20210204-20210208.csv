@@ -1,0 +1,861 @@
+match_id,start_time,win,hero_id,account_id,leaguename
+5816597618,1612376051,true,13,87278757,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,true,86,89117038,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,true,126,121769650,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,true,103,73562326,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,true,70,72312627,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,false,10,105248644,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,false,55,34505203,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,false,53,82262664,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,false,7,101356886,DPC Winter 21 League (WEU) presented by DreamLeague
+5816597618,1612376051,false,69,86700461,DPC Winter 21 League (WEU) presented by DreamLeague
+5816689093,1612382408,true,53,81306398,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,true,42,86822085,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,true,38,84853828,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,true,110,105045291,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,true,13,85937380,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,false,30,99796146,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,false,107,133167741,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,false,109,339235645,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,false,86,248180032,DPC Winter 21 League (SA) presented by OGA
+5816689093,1612382408,false,104,28070572,DPC Winter 21 League (SA) presented by OGA
+5816694779,1612382101,false,25,141690233,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,false,42,100483784,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,false,129,86576108,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,false,111,107746371,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,false,86,105040222,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,true,107,115464954,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,true,73,366294622,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,true,38,94439767,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,true,106,176961039,DPC Winter 21 League (WEU) presented by DreamLeague
+5816694779,1612382101,true,43,92028391,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,true,107,115464954,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,true,8,366294622,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,true,121,94439767,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,true,23,176961039,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,true,53,92028391,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,false,74,141690233,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,false,109,100483784,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,false,129,86576108,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,false,86,105040222,DPC Winter 21 League (WEU) presented by DreamLeague
+5816747941,1612385580,false,111,107746371,DPC Winter 21 League (WEU) presented by DreamLeague
+5816756494,1612385872,true,30,81306398,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,true,129,84853828,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,true,46,85937380,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,true,86,105045291,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,true,77,86822085,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,false,85,99796146,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,false,126,28070572,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,false,25,133167741,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,false,9,248180032,DPC Winter 21 League (SA) presented by OGA
+5816756494,1612385872,false,94,339235645,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,true,88,155332459,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,true,47,352623024,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,true,65,352545711,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,true,72,452400903,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,true,5,117089283,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,false,54,303673743,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,false,25,151460217,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,false,98,125845797,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,false,107,119343873,DPC Winter 21 League (SA) presented by OGA
+5816842775,1612393436,false,30,278770268,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,false,19,155332459,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,false,53,352623024,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,false,23,352545711,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,false,72,452400903,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,false,30,117089283,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,true,42,303673743,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,true,47,151460217,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,true,129,125845797,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,true,52,119343873,DPC Winter 21 League (SA) presented by OGA
+5816872321,1612396590,true,5,278770268,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,true,44,452400903,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,true,98,352623024,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,true,13,352545711,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,true,100,155332459,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,true,47,117089283,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,false,32,303673743,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,false,92,151460217,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,false,40,125845797,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,false,51,119343873,DPC Winter 21 League (SA) presented by OGA
+5816904605,1612400417,false,30,278770268,DPC Winter 21 League (SA) presented by OGA
+5817055171,1612414960,false,85,111034589,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,false,113,118233883,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,false,60,91644707,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,false,9,297312417,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,false,106,146711951,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,true,90,127077041,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,true,72,104512126,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,true,120,113874152,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,true,84,100616105,DPC Winter 21 League (SEA) presented by PGL
+5817055171,1612414960,true,46,337575662,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,true,84,111034589,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,true,10,118233883,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,true,16,91644707,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,true,9,297312417,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,true,126,146711951,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,false,90,127077041,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,false,72,104512126,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,false,4,113874152,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,false,78,100616105,DPC Winter 21 League (SEA) presented by PGL
+5817119692,1612420266,false,73,337575662,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,false,84,111034589,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,false,93,118233883,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,false,121,91644707,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,false,51,297312417,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,false,43,146711951,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,true,126,127077041,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,true,94,104512126,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,true,79,113874152,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,true,88,100616105,DPC Winter 21 League (SEA) presented by PGL
+5817166280,1612423851,true,106,337575662,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,false,129,122867857,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,false,128,100598959,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,false,44,119898344,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,false,68,103045129,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,false,78,108831569,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,true,19,209287073,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,true,40,451317002,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,true,80,458287006,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,true,110,274078636,DPC Winter 21 League (SEA) presented by PGL
+5817225062,1612427992,true,46,392169957,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,true,13,122867857,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,true,10,119898344,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,true,78,103045129,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,true,110,100598959,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,true,16,108831569,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,false,90,274078636,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,false,86,209287073,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,false,114,458287006,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,false,129,451317002,DPC Winter 21 League (SEA) presented by PGL
+5817282433,1612431953,false,19,392169957,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,false,32,119898344,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,false,110,100598959,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,false,52,122867857,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,false,85,103045129,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,false,29,108831569,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,true,90,274078636,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,true,27,209287073,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,true,59,458287006,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,true,129,451317002,DPC Winter 21 League (SEA) presented by PGL
+5817334548,1612435336,true,98,392169957,DPC Winter 21 League (SEA) presented by PGL
+5817343331,1612436105,true,103,178692606,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,true,88,386370442,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,true,43,112179882,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,true,126,217599053,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,true,95,90365989,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,false,70,99155835,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,false,5,299213834,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,false,129,234699894,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,false,86,326327879,DPC Winter 21 League (EEU) presented by ESL One
+5817343331,1612436105,false,39,210053851,DPC Winter 21 League (EEU) presented by ESL One
+5817395656,1612439460,false,5,237325411,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,false,15,301750126,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,false,38,156328257,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,false,95,103110865,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,false,120,143278997,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,true,108,184950344,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,true,43,94281932,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,true,87,136829091,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,true,88,121404228,DPC Winter 21 League (SEA) presented by PGL
+5817395656,1612439460,true,42,392565237,DPC Winter 21 League (SEA) presented by PGL
+5817420392,1612440239,false,66,178692606,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,false,8,90365989,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,false,29,112179882,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,false,107,386370442,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,false,126,217599053,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,true,12,99155835,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,true,110,299213834,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,true,98,234699894,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,true,7,326327879,DPC Winter 21 League (EEU) presented by ESL One
+5817420392,1612440239,true,13,210053851,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,false,66,178692606,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,false,86,386370442,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,false,38,112179882,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,false,8,90365989,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,false,126,217599053,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,true,12,99155835,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,true,68,299213834,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,true,129,234699894,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,true,7,326327879,DPC Winter 21 League (EEU) presented by ESL One
+5817524430,1612444745,true,13,210053851,DPC Winter 21 League (EEU) presented by ESL One
+5817524771,1612444735,false,33,184950344,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,false,106,94281932,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,false,121,136829091,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,false,107,121404228,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,false,70,392565237,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,true,103,237325411,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,true,13,301750126,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,true,29,156328257,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,true,110,143278997,DPC Winter 21 League (SEA) presented by PGL
+5817524771,1612444735,true,42,103110865,DPC Winter 21 League (SEA) presented by PGL
+5817635225,1612449424,false,90,70917469,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,false,95,195108598,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,false,76,358425548,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,false,38,106305042,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,false,100,235505993,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,true,44,116934015,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,true,13,439345730,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,true,98,86870856,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,true,7,9403474,DPC Winter 21 League (EEU) presented by ESL One
+5817635225,1612449424,true,66,108958769,DPC Winter 21 League (EEU) presented by ESL One
+5817636213,1612448993,false,31,237325411,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,false,13,301750126,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,false,120,156328257,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,false,90,143278997,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,false,12,103110865,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,true,38,184950344,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,true,49,94281932,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,true,87,136829091,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,true,9,121404228,DPC Winter 21 League (SEA) presented by PGL
+5817636213,1612448993,true,42,392565237,DPC Winter 21 League (SEA) presented by PGL
+5817730399,1612452720,false,10,116934015,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,false,65,439345730,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,false,29,86870856,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,false,7,9403474,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,false,87,108958769,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,true,111,70917469,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,true,95,195108598,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,true,74,106305042,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,true,38,358425548,DPC Winter 21 League (EEU) presented by ESL One
+5817730399,1612452720,true,107,235505993,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,true,8,116934015,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,true,126,439345730,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,true,47,86870856,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,true,51,9403474,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,true,110,108958769,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,false,121,70917469,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,false,4,195108598,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,false,74,106305042,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,false,129,358425548,DPC Winter 21 League (EEU) presented by ESL One
+5817826442,1612456803,false,119,235505993,DPC Winter 21 League (EEU) presented by ESL One
+5817835869,1612458369,false,85,97366926,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,false,65,131303632,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,false,38,71266407,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,false,101,111750003,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,false,114,107579895,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,true,39,179154584,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,true,100,1031547092,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,true,53,138177198,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,true,102,191290281,DPC Winter 21 League (SA) presented by OGA
+5817835869,1612458369,true,58,125995177,DPC Winter 21 League (SA) presented by OGA
+5817904346,1612460479,true,70,124801257,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,true,126,480412663,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,true,78,56351509,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,true,27,317880638,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,true,90,187758589,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,false,100,91460772,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,false,43,237238721,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,false,33,90423751,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,false,98,92847434,DPC Winter 21 League (EEU) presented by ESL One
+5817904346,1612460479,false,91,116881520,DPC Winter 21 League (EEU) presented by ESL One
+5817932141,1612461490,true,90,125995177,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,true,100,1031547092,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,true,108,138177198,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,true,99,191290281,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,true,45,179154584,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,false,42,107579895,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,false,64,97366926,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,false,23,131303632,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,false,29,71266407,DPC Winter 21 League (SA) presented by OGA
+5817932141,1612461490,false,101,111750003,DPC Winter 21 League (SA) presented by OGA
+5817975494,1612463803,false,13,91460772,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,false,74,237238721,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,false,114,90423751,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,false,53,92847434,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,false,81,116881520,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,true,42,124801257,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,true,47,480412663,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,true,29,56351509,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,true,26,317880638,DPC Winter 21 League (EEU) presented by ESL One
+5817975494,1612463803,true,90,187758589,DPC Winter 21 League (EEU) presented by ESL One
+5818052226,1612468804,false,100,890863990,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,false,42,142147636,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,false,52,446376753,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,false,126,1131665504,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,false,58,160391554,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,true,5,207916561,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,true,13,314468507,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,true,114,312435408,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,true,108,194521913,DPC Winter 21 League (SA) presented by OGA
+5818052226,1612468804,true,9,156331087,DPC Winter 21 League (SA) presented by OGA
+5818052637,1612468779,true,85,86727555,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,true,114,361688848,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,true,26,10366616,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,true,29,84429681,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,true,73,87177591,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,false,129,86975889,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,false,8,188423794,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,false,13,161072811,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,false,107,97235629,DPC Winter 21 League (NA) presented by BTS
+5818052637,1612468779,false,40,131777279,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,false,129,86975889,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,false,95,188423794,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,false,74,161072811,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,false,27,97235629,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,false,85,131777279,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,true,51,86727555,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,true,46,361688848,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,true,89,10366616,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,true,47,84429681,DPC Winter 21 League (NA) presented by BTS
+5818113468,1612472519,true,15,87177591,DPC Winter 21 League (NA) presented by BTS
+5818129179,1612473384,false,107,890863990,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,false,52,1131665504,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,false,6,142147636,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,false,40,446376753,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,false,28,160391554,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,true,30,207916561,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,true,17,314468507,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,true,53,194521913,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,true,95,312435408,DPC Winter 21 League (SA) presented by OGA
+5818129179,1612473384,true,86,156331087,DPC Winter 21 League (SA) presented by OGA
+5818200829,1612479698,true,12,108452107,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,true,126,221666230,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,true,114,87063175,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,true,79,86726887,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,true,25,47434686,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,false,27,126469785,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,false,74,125814840,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,false,43,14067214,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,false,42,126422920,DPC Winter 21 League (NA) presented by BTS
+5818200829,1612479698,false,121,170638230,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,false,120,126469785,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,false,39,125814840,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,false,104,14067214,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,false,41,126422920,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,false,30,170638230,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,true,4,108452107,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,true,65,221666230,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,true,47,87063175,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,true,88,86726887,DPC Winter 21 League (NA) presented by BTS
+5818233593,1612483325,true,121,47434686,DPC Winter 21 League (NA) presented by BTS
+5818423673,1612501221,false,126,255219872,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,false,94,320252024,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,false,84,249835593,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,false,76,150961567,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,false,120,189398048,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,true,113,136177710,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,true,46,139822354,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,true,60,186627166,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,true,114,119535307,DPC Winter 21 League (CN) presented by Perfect World
+5818423673,1612501221,true,27,90882159,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,true,12,136177710,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,true,76,139822354,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,true,126,186627166,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,true,79,119535307,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,true,103,90882159,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,false,43,255219872,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,false,96,189398048,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,false,32,320252024,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,false,86,150961567,DPC Winter 21 League (CN) presented by Perfect World
+5818463080,1612504492,false,111,249835593,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,true,8,277141004,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,true,110,143693439,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,true,52,107803494,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,true,51,138543123,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,true,65,134276083,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,false,29,94738847,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,false,43,137129583,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,false,85,94296097,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,false,93,126417273,DPC Winter 21 League (CN) presented by Perfect World
+5818562596,1612512008,false,7,182331313,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,false,38,94738847,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,false,40,137129583,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,false,78,94296097,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,false,110,182331313,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,false,95,126417273,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,true,99,277141004,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,true,129,134276083,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,true,9,138543123,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,true,43,107803494,DPC Winter 21 League (CN) presented by Perfect World
+5818636018,1612517011,true,88,143693439,DPC Winter 21 League (CN) presented by Perfect World
+5818716476,1612522510,true,90,73401082,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,true,17,259269947,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,true,99,150748346,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,true,120,148180390,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,true,27,197547532,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,false,13,93552791,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,false,43,171981096,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,false,70,171262902,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,false,9,182993582,DPC Winter 21 League (EEU) presented by ESL One
+5818716476,1612522510,false,2,86723143,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,false,111,93552791,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,false,63,171262902,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,false,53,171981096,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,false,9,182993582,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,false,120,86723143,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,true,102,73401082,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,true,65,259269947,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,true,91,150748346,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,true,16,148180390,DPC Winter 21 League (EEU) presented by ESL One
+5818784151,1612526161,true,90,197547532,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,false,27,145065875,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,false,17,200362560,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,false,77,363871826,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,false,103,66620961,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,false,8,155162307,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,true,53,117421467,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,true,29,86785083,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,true,49,5150808,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,true,88,295697470,DPC Winter 21 League (EEU) presented by ESL One
+5818953537,1612533311,true,106,241519559,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,false,5,117421467,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,false,120,86785083,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,false,13,5150808,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,false,7,295697470,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,false,70,241519559,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,true,90,145065875,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,true,87,66620961,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,true,78,363871826,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,true,126,200362560,DPC Winter 21 League (EEU) presented by ESL One
+5819049871,1612536723,true,99,155162307,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,false,107,145065875,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,false,5,66620961,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,false,98,363871826,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,false,17,200362560,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,false,48,155162307,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,true,53,117421467,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,true,4,86785083,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,true,13,5150808,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,true,88,295697470,DPC Winter 21 League (EEU) presented by ESL One
+5819146580,1612540200,true,1,241519559,DPC Winter 21 League (EEU) presented by ESL One
+5819242734,1612544432,true,77,308163407,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,true,65,399920568,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,true,100,242885483,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,true,32,101062921,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,true,121,185001854,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,false,52,173328149,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,false,93,314480111,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,false,129,112545824,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,false,27,317506304,DPC Winter 21 League (SA) presented by OGA
+5819242734,1612544432,false,28,907542160,DPC Winter 21 League (SA) presented by OGA
+5819250473,1612544760,false,90,87586992,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,false,88,117483894,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,false,17,40805086,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,false,29,123787524,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,false,4,116249155,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,true,42,124801257,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,true,13,480412663,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,true,98,56351509,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,true,27,317880638,DPC Winter 21 League (EEU) presented by ESL One
+5819250473,1612544760,true,111,187758589,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,false,90,87586992,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,false,86,117483894,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,false,76,40805086,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,false,129,123787524,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,false,99,116249155,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,true,4,124801257,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,true,45,480412663,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,true,98,56351509,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,true,27,317880638,DPC Winter 21 League (EEU) presented by ESL One
+5819337509,1612548480,true,5,187758589,DPC Winter 21 League (EEU) presented by ESL One
+5819344869,1612548413,false,88,173328149,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,false,108,112545824,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,false,10,314480111,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,false,103,317506304,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,false,65,907542160,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,true,39,399920568,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,true,38,308163407,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,true,114,101062921,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,true,86,242885483,DPC Winter 21 League (SA) presented by OGA
+5819344869,1612548413,true,58,185001854,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,true,129,292921272,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,true,51,157989498,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,true,121,119631156,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,true,42,164685175,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,true,128,153836240,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,false,110,186837494,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,false,90,349310876,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,false,120,59463394,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,false,32,95825708,DPC Winter 21 League (SA) presented by OGA
+5819465626,1612555207,false,28,407321629,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,false,90,186837494,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,false,126,349310876,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,false,29,59463394,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,false,99,95825708,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,false,76,407321629,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,true,108,292921272,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,true,81,164685175,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,true,65,153836240,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,true,107,157989498,DPC Winter 21 League (SA) presented by OGA
+5819531670,1612558855,true,121,119631156,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,true,90,177953305,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,true,22,123953528,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,true,9,86850560,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,true,42,173971950,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,true,129,878212255,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,false,109,345072645,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,false,106,180775030,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,false,16,408729743,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,false,110,125941160,DPC Winter 21 League (SA) presented by OGA
+5819621015,1612566011,false,121,100758751,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,true,13,177953305,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,true,107,86850560,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,true,65,123953528,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,true,73,173971950,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,true,29,878212255,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,false,95,345072645,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,false,19,180775030,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,false,40,408729743,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,false,90,125941160,DPC Winter 21 League (SA) presented by OGA
+5819663125,1612569409,false,85,100758751,DPC Winter 21 League (SA) presented by OGA
+5819879375,1612587911,false,39,877696078,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,false,107,318371533,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,false,114,318286721,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,false,111,160708663,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,false,70,360648679,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,true,84,76904792,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,true,86,181716137,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,true,16,363724571,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,true,44,389033587,DPC Winter 21 League (SEA) presented by PGL
+5819879375,1612587911,true,17,113435203,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,true,79,76904792,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,true,88,181716137,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,true,120,363724571,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,true,44,389033587,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,true,23,113435203,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,false,126,877696078,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,false,86,318371533,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,false,38,318286721,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,false,85,160708663,DPC Winter 21 League (SEA) presented by PGL
+5819939280,1612591612,false,32,360648679,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,true,13,100594231,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,true,102,148526973,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,true,100,345803031,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,true,43,324277900,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,true,95,355168766,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,false,88,323792491,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,false,126,218367241,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,false,10,150862738,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,false,27,156029808,DPC Winter 21 League (SEA) presented by PGL
+5820053683,1612598469,false,29,145331311,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,true,90,323792491,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,true,17,218367241,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,true,99,150862738,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,true,21,156029808,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,true,120,145331311,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,false,126,100594231,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,false,53,148526973,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,false,47,345803031,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,false,39,324277900,DPC Winter 21 League (SEA) presented by PGL
+5820112417,1612601504,false,95,355168766,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,false,111,323792491,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,false,126,218367241,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,false,42,150862738,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,false,27,156029808,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,false,98,145331311,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,true,100,100594231,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,true,120,345803031,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,true,90,148526973,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,true,106,324277900,DPC Winter 21 League (SEA) presented by PGL
+5820198390,1612606007,true,95,355168766,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,false,43,184950344,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,false,108,94281932,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,false,5,136829091,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,false,120,121404228,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,false,44,392565237,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,true,110,112377459,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,true,7,155494381,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,true,13,164532005,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,true,8,152545459,DPC Winter 21 League (SEA) presented by PGL
+5820261375,1612609337,true,38,87012746,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,false,111,112377459,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,false,79,155494381,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,false,65,164532005,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,false,44,152545459,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,false,129,87012746,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,true,38,184950344,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,true,106,94281932,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,true,5,136829091,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,true,26,121404228,DPC Winter 21 League (SEA) presented by PGL
+5820382488,1612614920,true,42,392565237,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,true,87,112377459,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,true,120,155494381,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,true,106,164532005,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,true,109,152545459,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,true,108,87012746,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,false,38,184950344,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,false,45,94281932,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,false,121,136829091,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,false,5,121404228,DPC Winter 21 League (SEA) presented by PGL
+5820491279,1612618723,false,44,392565237,DPC Winter 21 League (SEA) presented by PGL
+5820517143,1612619752,true,47,87382579,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,true,49,96803083,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,true,4,97590558,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,true,7,185996267,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,true,5,16497807,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,false,31,127565532,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,false,13,898455820,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,false,114,127617979,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,false,51,153125655,DPC Winter 21 League (WEU) presented by DreamLeague
+5820517143,1612619752,false,96,183719386,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,false,33,87382579,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,false,4,97590558,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,false,89,185996267,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,false,17,96803083,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,false,30,16497807,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,true,31,127565532,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,true,76,898455820,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,true,114,127617979,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,true,9,153125655,DPC Winter 21 League (WEU) presented by DreamLeague
+5820604838,1612623121,true,129,183719386,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,false,5,127565532,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,false,126,898455820,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,false,42,127617979,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,false,108,183719386,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,false,110,153125655,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,true,38,87382579,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,true,114,97590558,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,true,74,96803083,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,true,9,185996267,DPC Winter 21 League (WEU) presented by DreamLeague
+5820707237,1612626902,true,111,16497807,DPC Winter 21 League (WEU) presented by DreamLeague
+5820797831,1612630804,false,85,97366926,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,false,12,107579895,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,false,126,131303632,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,false,39,71266407,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,false,27,111750003,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,true,51,99672424,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,true,107,101779337,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,true,53,109455705,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,true,13,197574429,DPC Winter 21 League (SA) presented by OGA
+5820797831,1612630804,true,114,249651648,DPC Winter 21 League (SA) presented by OGA
+5820848796,1612632660,false,70,105248644,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,false,4,34505203,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,false,26,82262664,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,false,110,101356886,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,false,65,86700461,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,true,111,91730177,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,true,52,190826739,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,true,54,164962869,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,true,13,140288368,DPC Winter 21 League (WEU) presented by DreamLeague
+5820848796,1612632660,true,7,92601861,DPC Winter 21 League (WEU) presented by DreamLeague
+5820886518,1612633966,false,121,97366926,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,false,55,71266407,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,false,44,107579895,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,false,120,131303632,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,false,100,111750003,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,true,30,99672424,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,true,7,101779337,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,true,17,197574429,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,true,38,109455705,DPC Winter 21 League (SA) presented by OGA
+5820886518,1612633966,true,42,249651648,DPC Winter 21 League (SA) presented by OGA
+5820959100,1612637819,false,78,91730177,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,false,74,190826739,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,false,54,164962869,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,false,43,140288368,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,false,7,92601861,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,true,114,105248644,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,true,33,34505203,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,true,51,82262664,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,true,110,101356886,DPC Winter 21 League (WEU) presented by DreamLeague
+5820959100,1612637819,true,13,86700461,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,true,121,91730177,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,true,49,190826739,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,true,42,164962869,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,true,15,140288368,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,true,7,92601861,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,false,114,105248644,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,false,33,34505203,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,false,53,82262664,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,false,51,101356886,DPC Winter 21 League (WEU) presented by DreamLeague
+5821025900,1612641360,false,13,86700461,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,true,26,87278757,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,true,7,89117038,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,true,23,121769650,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,true,53,73562326,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,true,80,72312627,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,false,121,54580962,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,false,77,86738694,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,false,129,152962063,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,false,98,77490514,DPC Winter 21 League (WEU) presented by DreamLeague
+5821108381,1612646104,false,13,401792574,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,true,3,87278757,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,true,119,89117038,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,true,10,121769650,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,true,120,73562326,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,true,48,72312627,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,false,102,54580962,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,false,17,86738694,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,false,91,152962063,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,false,28,77490514,DPC Winter 21 League (WEU) presented by DreamLeague
+5821187099,1612651564,false,86,401792574,DPC Winter 21 League (WEU) presented by DreamLeague
+5821204348,1612652548,false,129,113055105,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,false,106,137676707,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,false,72,118626850,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,false,27,403084705,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,false,85,109798771,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,true,13,59752811,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,true,98,117311875,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,true,17,397240228,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,true,90,91741256,DPC Winter 21 League (NA) presented by BTS
+5821204348,1612652548,true,70,168108415,DPC Winter 21 League (NA) presented by BTS
+5821204415,1612652457,true,30,81306398,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,true,38,84853828,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,true,129,85937380,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,true,119,105045291,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,true,10,86822085,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,false,106,151460217,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,false,8,303673743,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,false,104,125845797,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,false,9,119343873,DPC Winter 21 League (SA) presented by OGA
+5821204415,1612652457,false,85,278770268,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,true,111,81306398,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,true,11,85937380,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,true,38,84853828,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,true,119,105045291,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,true,42,86822085,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,false,63,303673743,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,false,25,151460217,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,false,129,125845797,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,false,107,119343873,DPC Winter 21 League (SA) presented by OGA
+5821241208,1612655778,false,30,278770268,DPC Winter 21 League (SA) presented by OGA
+5821248804,1612656646,true,58,59752811,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,true,73,168108415,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,true,129,117311875,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,true,90,91741256,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,true,39,397240228,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,false,33,113055105,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,false,74,137676707,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,false,88,403084705,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,false,44,118626850,DPC Winter 21 League (NA) presented by BTS
+5821248804,1612656646,false,121,109798771,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,true,75,94364925,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,true,13,92706637,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,true,29,86811043,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,true,90,50828662,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,true,51,192120253,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,false,58,277196834,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,false,94,85367644,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,false,27,100246000,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,false,126,114585639,DPC Winter 21 League (NA) presented by BTS
+5821317569,1612663212,false,98,153351088,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,true,95,94364925,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,true,13,92706637,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,true,60,86811043,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,true,86,50828662,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,true,51,192120253,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,false,100,100246000,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,false,126,114585639,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,false,63,85367644,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,false,29,153351088,DPC Winter 21 League (NA) presented by BTS
+5821362457,1612666962,false,30,277196834,DPC Winter 21 League (NA) presented by BTS
+5821460630,1612674021,true,120,139031324,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,true,43,315272623,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,true,112,114645455,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,true,94,452376367,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,true,88,215671947,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,false,7,139406237,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,false,65,114787051,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,false,70,231622898,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,false,77,342340720,DPC Winter 21 League (CN) presented by Perfect World
+5821460630,1612674021,false,78,114193693,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,true,120,114645455,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,true,13,315272623,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,true,63,139031324,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,true,42,452376367,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,true,110,215671947,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,false,121,114193693,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,false,49,114787051,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,false,7,139406237,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,false,8,231622898,DPC Winter 21 League (CN) presented by Perfect World
+5821512208,1612677498,false,129,342340720,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,true,91,103296177,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,true,43,199222238,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,true,60,88470,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,true,72,227657377,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,true,86,197849259,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,false,112,164530809,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,false,87,135656964,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,false,76,242837510,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,false,42,254710104,DPC Winter 21 League (CN) presented by Perfect World
+5821634499,1612684823,false,96,223344914,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,false,100,164530809,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,false,53,223344914,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,false,103,135656964,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,false,76,254710104,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,false,49,242837510,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,true,91,103296177,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,true,39,199222238,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,true,60,88470,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,true,42,227657377,DPC Winter 21 League (CN) presented by Perfect World
+5821700977,1612688442,true,27,197849259,DPC Winter 21 League (CN) presented by Perfect World
+5821828531,1612695301,false,51,116525052,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,false,70,119315361,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,false,129,126174633,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,false,110,205517338,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,false,126,70388657,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,true,85,178692606,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,true,108,112179882,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,true,7,386370442,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,true,13,217599053,DPC Winter 21 League (EEU) presented by ESL One
+5821828531,1612695301,true,77,90365989,DPC Winter 21 League (EEU) presented by ESL One
+5821863969,1612696685,true,114,898754153,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,true,65,173978074,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,true,29,118134220,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,true,13,157475523,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,true,111,111114687,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,false,109,137193239,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,false,126,106863163,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,false,69,139937922,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,false,7,101695162,DPC Winter 21 League (CN) presented by Perfect World
+5821863969,1612696685,false,68,108221389,DPC Winter 21 League (CN) presented by Perfect World
+5821902756,1612699047,false,43,116525052,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,false,73,119315361,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,false,129,126174633,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,false,27,205517338,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,false,126,70388657,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,true,58,178692606,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,true,109,90365989,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,true,13,217599053,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,true,107,386370442,DPC Winter 21 League (EEU) presented by ESL One
+5821902756,1612699047,true,55,112179882,DPC Winter 21 League (EEU) presented by ESL One
+5821979639,1612701641,true,95,137193239,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,true,126,106863163,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,true,120,139937922,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,true,9,101695162,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,true,51,108221389,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,false,94,898754153,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,false,106,173978074,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,false,99,118134220,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,false,7,157475523,DPC Winter 21 League (CN) presented by Perfect World
+5821979639,1612701641,false,90,111114687,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,true,95,137193239,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,true,65,106863163,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,true,77,139937922,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,true,121,101695162,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,true,111,108221389,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,false,42,898754153,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,false,43,173978074,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,false,29,118134220,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,false,106,157475523,DPC Winter 21 League (CN) presented by Perfect World
+5822079851,1612705218,false,68,111114687,DPC Winter 21 League (CN) presented by Perfect World
+5822089528,1612706103,false,27,145065875,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,false,114,200362560,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,false,43,363871826,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,false,65,66620961,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,false,42,155162307,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,true,54,152455523,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,true,89,91064780,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,true,102,250114507,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,true,88,159020918,DPC Winter 21 League (EEU) presented by ESL One
+5822089528,1612706103,true,33,89550641,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,true,54,152455523,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,true,87,91064780,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,true,23,250114507,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,true,119,159020918,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,true,38,89550641,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,false,88,145065875,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,false,22,200362560,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,false,29,363871826,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,false,110,66620961,DPC Winter 21 League (EEU) presented by ESL One
+5822251982,1612711861,false,95,155162307,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,false,8,321580662,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,false,87,113331514,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,false,93,431770905,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,false,7,256156323,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,false,102,302214028,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,true,64,117421467,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,true,55,86785083,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,true,65,5150808,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,true,88,295697470,DPC Winter 21 League (EEU) presented by ESL One
+5822405090,1612716970,true,32,241519559,DPC Winter 21 League (EEU) presented by ESL One
