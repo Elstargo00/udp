@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from .. import db
+from . import db
 import requests
 from .dbs_handle import Numerical_record, League, Score
 

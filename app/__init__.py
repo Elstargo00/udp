@@ -12,5 +12,4 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////Users/elstargo/Documents/all
 
 db = SQLAlchemy(app)
 
-from .main import main as main_blueprint
-app.register_blueprint(main_blueprint)
+from . import routes

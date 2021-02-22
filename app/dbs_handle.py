@@ -1,4 +1,4 @@
-from .. import db
+from . import db
 
 class Numerical_record(db.Model):
     __tablename__ = 'numerical_records'
