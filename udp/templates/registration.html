@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>
+    Registration - Guess From Draft Dota2
+</title>
+{% endblock %}
+
+{% block body %}
+
+<div class="container">
+
+    <div class="jumbotron">
+        <div class="row align-items-center justify-content-center">
+        <div class="col-md-4">
+
+            <form action="" method="POST">
+                <div class="form-group"></div>
+                    {{form.hidden_tag()}}
+                    {{form.email.label}}{{form.email(class_="form-control")}} <br>
+                    {{form.username.label}}{{form.username(class_="form-control")}} <br>
+                    {{form.password.label}}{{form.password(class_="form-control")}} <br>
+                    {{form.password_confirm.label}}{{form.password_confirm(class_="form-control")}} <br>
+                    {{form.submit(class="btn-success")}}
+            </form>
+
+        </div>
+        </div>
+    </div>
+
+</div>
+
+{% endblock %}
+
+
+
+</html>

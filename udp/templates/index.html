@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+<!-- general users -->
+
+{% block head %}
+<title>
+    Dota2 talk cheeze
+</title>
+{% endblock %}
+
+{% block body %}
+
+<div class=container>
+
+    <br><br>
+
+<h5 style="color:blue;">(Refresh this page to get new results)</h5>
+
+    <br><br>
+
+
+{% if not full_results %}
+    <h2 style="color:red;text-align:center;">Currently no match prediction found!!</h2>
+{% else %}
+    <ul>
+    {% for result in full_results %}
+        <li>{{ result }}</li>
+    {% endfor %}
+    </ul>
+{% endif %}
+
+</div>
+{% endblock %}
+
+
+
+</html>

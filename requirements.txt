@@ -1,7 +1,10 @@
 flask
 flask-sqlalchemy
 flask-wtf
+flask-login
 pandas
 sklearn
 requests
 flask-migrate
+email_validator
+pillow
